@@ -1,0 +1,4 @@
+submission.sh is to be run to obtain plots for all the three tasks.
+task2.py is implementation of 4 action agent.
+task3.py is implementation of King(8 action) agent.
+task4.py is implementation of King(8 action) agent with environment containing stocastic wind.
